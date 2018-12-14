@@ -1,0 +1,30 @@
+{
+  "name": "@types/openpgp",
+  "version": "4.2.2",
+  "description": "Updated TypeScript definitions for OpenPGP.js",
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Guillaume Lacasa",
+      "url": "https://blog.lacasa.fr"
+    },
+    {
+      "name": "Errietta Kostala",
+      "url": "https://github.com/errietta"
+    },
+    {
+      "name": "Daniel Montesinos",
+      "url": "https://github.com/damonpam"
+    },
+    {
+      "name": "Carlos Villavicencio",
+      "url": "https://github.com/po5i"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "typeScriptVersion": "2.0",
+  "types": "index",
+  "author": "Various",
+  "license": "MIT"
+}
